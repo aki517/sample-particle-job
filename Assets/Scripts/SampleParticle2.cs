@@ -10,9 +10,6 @@ using UnityEngine.Experimental.ParticleSystemJobs;
 /// </summary>
 public class SampleParticle2 : MonoBehaviour
 {
-    ParticleSystem  m_particleSystem;
-    ParticleJob     m_particleJob;
-
     void Awake()
     {
         ParticleSystem ps = GetComponent<ParticleSystem>();
