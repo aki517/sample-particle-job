@@ -4,6 +4,7 @@ IParticleSystemJobを使用したパーティクルのサンプル
 ### Unity Version
 Unity 2019.1.0f2
 
+### SampleScene
 CustomData モジュールで定義したカーブアニメーションに沿ってパーティクルカラーを変更
 Particle1 : メインスレッド側で処理
 Particle2 : IParticleSystemJobを使ってWorkerスレッド側で処理
